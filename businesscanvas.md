@@ -163,11 +163,75 @@ BlockVault maintains an efficient model by leveraging decentralized storage and 
 
 ---
 
-If you want, I can also:
+## **Business Model Canvas – BlockVault**
 
-✅ Convert this to a **PDF**
-✅ Turn it into a **PowerPoint**
-✅ Add diagrams or icons
-✅ Rewrite it in a more formal academic tone
+**Key Partners**
+- Cloud providers (AWS/GCP/Azure)  
+- IPFS gateways  
+- Cybersecurity firms  
+- Blockchain networks (Polygon/Ethereum)  
+- Developer communities  
 
-Just tell me!
+**Key Activities**
+- Smart contract development  
+- Encryption engine improvements  
+- File sharing workflow management  
+- Maintaining IPFS + cloud systems  
+- UI/UX updates  
+- Customer support  
+
+**Value Proposition**
+- End-to-end encryption  
+- Blockchain-based access control (RBAC)  
+- Tamper-proof logs  
+- Secure file sharing with expiry  
+- Hybrid storage (IPFS + cloud)  
+- Full transparency and privacy  
+
+**Customer Relationships**
+- Self-service dashboard  
+- Automated onboarding  
+- AI chatbot support  
+- Documentation & tutorials  
+- Community forum  
+- Enterprise dedicated support  
+
+**Customer Segments**
+- Individuals with sensitive files  
+- Freelancers & creators  
+- SMBs and startups  
+- Legal/finance/health professionals  
+- IT companies  
+- Developers integrating storage  
+
+**Key Resources**
+- Smart contracts  
+- Rust encryption engine  
+- Storage infrastructure  
+- Developers & security experts  
+- Web application  
+- Documentation & SDK  
+
+**Channels**
+- Web application  
+- APIs & SDK  
+- LinkedIn/email outreach  
+- GitHub & developer communities  
+- Workshops & product demos  
+
+**Cost Structure**
+- Cloud hosting & IPFS cost  
+- Blockchain gas fees  
+- Development & salary costs  
+- Security audits  
+- Marketing & customer support  
+- Server maintenance  
+
+**Revenue Streams**
+- Freemium plan  
+- Subscription tiers (Basic/Pro/Enterprise)  
+- API usage fees  
+- Blockchain transaction fees  
+- Custom enterprise deployments  
+
+
